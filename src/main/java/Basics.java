@@ -183,7 +183,6 @@ public class Basics {
         return current_sum;
     }
 
-
     /*
      * TODO (Task 6): Submit the changes you made on GitHub!
      *                When you submit it, go to the 'Actions' tab. You should
